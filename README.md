@@ -20,7 +20,7 @@ Présenter le salon, ses services et son équipe, et permettre aux clients de **
 |---|---|
 | CMS | WordPress |
 | Réservation | Plugin Amelia |
-| Thème | [À compléter] |
+
 
 ## Captures d'écran
 
