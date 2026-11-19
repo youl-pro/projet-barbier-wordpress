@@ -25,13 +25,13 @@ Présenter le salon, ses services et son équipe, et permettre aux clients de **
 ## Captures d'écran
 
 ### Accueil
-![Page d'accueil](https://raw.githubusercontent.com/youl-pro/projet-barbier-wordpress/main/images/01-accueil.png)
+![Page d'accueil](images/bil-barbier.png)
 
 ### À propos de nous
-![Page À propos de nous](https://raw.githubusercontent.com/youl-pro/projet-barbier-wordpress/main/images/02-a-propos.png)
+![Page À propos de nous](images/a_propos.png)
 
 ### Contact
-![Page Contact](https://raw.githubusercontent.com/youl-pro/projet-barbier-wordpress/main/images/03-contact.png)
+![Page Contact](images/contact.png)
 
 ## Ma contribution
 
