@@ -1,4 +1,4 @@
-# Site web et réservation en ligne : Bil-Barbier (WordPress + Amelia)
+💈# Site web et réservation en ligne : Bil-Barbier (WordPress + Amelia)
 
 Site web d'un salon de barbier de Trois-Rivières, réalisé avec **WordPress** et le plugin de réservation **Amelia**.
 
