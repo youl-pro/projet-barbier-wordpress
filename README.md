@@ -33,10 +33,6 @@ Présenter le salon, ses services et son équipe, et permettre aux clients de **
 ### Contact
 ![Page Contact](images/contact.png)
 
-## Ma contribution
-
-[À compléter avec ce que j'ai réellement fait]
-
 ## Ce que contient ce dépôt
 
 Ce dépôt présente le projet avec des captures d'écran et sa description. Il **ne contient pas** le fichier `wp-config.php`, la base de données, les clés d'accès ni les licences des plugins.
