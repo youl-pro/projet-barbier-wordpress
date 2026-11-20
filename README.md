@@ -28,7 +28,7 @@ Présenter le salon, ses services et son équipe, et permettre aux clients de **
 ![Page d'accueil](images/bil-barbier.png)
 
 ### À propos de nous
-![Page À propos de nous](images/a propos.png)
+![Page À propos de nous](images/a%20propos.png)
 
 ### Contact
 ![Page Contact](images/contact.png)
